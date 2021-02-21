@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.053962">
+    <testcase classname="As a User I want to validate Total Balance is the Sum of Individul Balance" name="Perform a Test to validate the total balance matches the sum of the values" time="0.053962">
+        <skipped>
+            <![CDATA[Given User navigate to url "https://www.exercise1.com/values"...............undefined
+When User is on problem#1 Page..............................................skipped
+Then User verify the right count of values appear on the screen.............undefined
+Then User verify the values on the screen are greater than 0................undefined
+Then User verify the total balance is correct based on the values listed on the screen.undefined
+Then User verify the values are formatted as currencies.....................undefined
+Then User verify the total balance matches the sum of the values............undefined
+]]>
+        </skipped>
+    </testcase>
+</testsuite>
