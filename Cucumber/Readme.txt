@@ -8,7 +8,7 @@ Documentation
 Installation
 Predefined steps
 Download a Framework
-Maven - 
+Maven - https://github.com/rahulkumarec1068/CucumberTest
 
 Framework Architecture
 Cucumber
@@ -46,9 +46,6 @@ The cucumber features goes in the features library and should have the ".feature
 
 You can start out by looking at features/Problem1.feature. You can extend this feature or make your own features using some of the predefined steps that comes
 with selenium-cucumber.
-
-Predefined steps
-By using predefined steps you can automate your test cases more quickly, more efficiently and without much coding.
 
 Running test
 Go to com.mass.cucumber.runner package an run the CucumberRunner file or run feature files. 
